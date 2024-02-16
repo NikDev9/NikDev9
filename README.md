@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikDev9
 - 👀 Enthusiastic developer interested in exploring new technologies and gaining more skills.
-- :D Previously worked on projects in Kotlin and Ionic framework.
-- 🌱 Currently working on a Django React project.
+- :D Previously worked on projects in Kotlin, Ionic framework and Django-React.
+- 🌱 Currently working on a React project.
 
 <!---
 NikDev9/NikDev9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
