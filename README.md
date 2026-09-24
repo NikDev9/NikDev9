@@ -1,9 +1,9 @@
 👋 Hi, I’m @NikDev9
 
-👀 Versatile software developer with experience across web, mobile, and backend development.
-🌐 JavaScript, React, Python/Django, PHP
-📱 React Native, Ionic, Kotlin
-☕ Java, Node.js, REST APIs
+👀 Versatile software developer with experience across web, mobile, and backend development.  
+🌐 JavaScript, React, Python/Django, PHP  
+📱 React Native, Ionic, Kotlin  
+☕ Java, Node.js, REST APIs  
 🚀 Exploring new technologies through personal projects
 
 <!---
